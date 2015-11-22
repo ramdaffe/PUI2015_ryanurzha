@@ -1,6 +1,6 @@
 Plot:
 
-![alt text](peer_jjhall77.PNG)
+![alt text](peer_jjhall77.png)
 
 Comment:
 
