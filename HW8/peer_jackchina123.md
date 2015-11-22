@@ -1,6 +1,6 @@
 Plot:
 
-![alt text](HW8/peer_jackchina123.PNG)
+![alt text](peer_jackchina123.PNG)
 
 Comment:
 
